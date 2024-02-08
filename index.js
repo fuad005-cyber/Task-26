@@ -42,8 +42,20 @@
 //  }
 //  console.log("Bütün ikirəqəmli tək ədədlərin cəmi: " + sum);
 
-// TASK 6 
 
+// TASK 5
+
+// TASK 6
+// let i = +prompt(' Sade ededi daxil edin')
+// while(i > 0){
+//    if (i % 2 == 0) {
+//       alert('Sade ededi daxil edin')
+//       break
+//    }
+//     alert(i);
+//     i -= 2;
+
+// }
 
 // TASK 7
 // let num = 1;
@@ -60,10 +72,10 @@
 // }
 // console.log(reverse);
 
-// TASK 9 -------------------------------------------
+// TASK 9 ------
 
 // TASK 10
-// let input = prompt("Mətnd daxil edin");
+// let input = prompt("Mətn daxil edin");
 // let hasNumbers = false;
 // for (let i = 0; i < input.length; i++) {
 //   if (!isNaN(input[i])) {
@@ -76,4 +88,3 @@
 // } else {
 //   console.log("Mətndə rəqəmlər yoxdur.");
 // }
-
